@@ -1,0 +1,6 @@
+transformers
+torch 
+gradio 
+langchain==0.0.343
+ibm_watson_machine_learning 
+huggingface-hub
